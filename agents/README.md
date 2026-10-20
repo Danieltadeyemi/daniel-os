@@ -4,7 +4,7 @@ Four agents, each a set of skills in `.claude/skills/`. Briefed 19–20 Oct 2026
 
 | Agent | Skills | Status |
 |---|---|---|
-| **Chief of Staff** | meeting-prep · wednesday-ceo-update · friday-closeout · morning-brief | Test runs 27–30 Oct 2026 |
+| **Chief of Staff** | meeting-prep · wednesday-ceo-update · friday-closeout · morning-brief · meeting-followup | Test runs 27–30 Oct 2026 |
 | **Brand Editor** | campaign-of-the-week (weekly) · thought-leadership (every 2 weeks) | Briefed |
 | **Questing Desk** | questing-scout · questing-producer · questing-own-piece | Briefed; OPay research started |
 | **Yellow Editor** | research & verify · draft review (Yellow Empire book) | Not briefed yet |
