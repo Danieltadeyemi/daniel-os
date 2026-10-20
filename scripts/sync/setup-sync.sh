@@ -20,7 +20,8 @@ if [ ! -d .git ]; then
   git remote add origin "$REPO"
 fi
 git fetch -q origin main
-git reset -q origin/main          # keeps every local file; just lines it up with GitHub's history
+git reset -q origin/main          # line the folder up with GitHub's history
+git checkout -- .                 # bring in files that exist on GitHub but not here (nothing is lost: a full backup was made in step 2)
 git config user.name "Daniel Adeyemi"
 git config user.email "danieltadeyemi@gmail.com"
 
