@@ -11,3 +11,8 @@ dist/
 # Secrets
 .env
 .env.*
+# Separate repos / app-managed folders on the Mac
+gender-reveal/
+Artifacts/
+# Sync log
+.sync.log
