@@ -13,4 +13,4 @@ Lessons are written as rules, not observations. Each one should be specific enou
 
 ## Lessons
 
-*(Empty — updated after first post goes through the full machine)*
+1. **Opening with "I" is fine when it drops the reader into a specific moment.** "I sat at a filling station last week watching cars leave the queue" works because the scene does the hooking. Banned: opening with "I" plus an abstraction ("I believe…", "I've been thinking…"). *(Source: filling-station post, 30 Jul 2026. Overrides the style guide's "never open with I".)*
