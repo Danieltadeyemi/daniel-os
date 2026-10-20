@@ -1,0 +1,13 @@
+# Large media stays on the Mac
+*.mp4
+*.mov
+# Dependencies and build caches
+node_modules/
+.parcel-cache/
+dist/
+# OS / local machine
+.DS_Store
+.claude/settings.local.json
+# Secrets
+.env
+.env.*

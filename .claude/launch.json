@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "daniel-dashboard",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--dir", "/Users/mac/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/14c64193-a507-4b6f-8ec2-a2e34ec6768b/49bf9093-5171-4bfd-8d6a-d68d757767d4/skills/web-artifacts-builder/daniel-dashboard", "run", "dev", "--port", "5173", "--host"],
+      "port": 5173
+    },
+    {
+      "name": "content-machine",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--dir", "/Users/mac/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/14c64193-a507-4b6f-8ec2-a2e34ec6768b/49bf9093-5171-4bfd-8d6a-d68d757767d4/skills/web-artifacts-builder/content-machine", "run", "dev", "--port", "5174", "--host"],
+      "port": 5174
+    }
+  ]
+}

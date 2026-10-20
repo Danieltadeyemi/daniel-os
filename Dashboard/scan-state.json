@@ -1,0 +1,6 @@
+{
+  "work_todos": {
+    "last_scanned": "2026-06-07T00:00:00Z",
+    "note": "Only fetch meeting notes with modifiedTime > last_scanned on next refresh"
+  }
+}
