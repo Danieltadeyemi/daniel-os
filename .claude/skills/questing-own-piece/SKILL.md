@@ -10,6 +10,12 @@ For the third track (tab "third"), e.g. OPay, onboarding flows and compliance, U
 3. **Daniel's interview:** 3–4 questions to surface his own observations and moments.
 4. **Draft** from his words plus the brief, under Questing's editorial rules. Claims stay within Nigeria/Kenya/SA/Ghana/Egypt/Senegal unless sourced.
 
+## Idea capture
+When Daniel drops "Idea: …" in any chat:
+- Questing ideas → append to `Questing/ideas.md` (date, idea, likely format: interview / breakdown / how-to / own piece).
+- Personal-brand ideas → append to `ContentMachine/vault/ideas.md`.
+Confirm in one line where it went.
+
 Current: **OPay** — "In a low-trust market, trust isn't built with brand. It's built in two boring layers: the money always lands, and the money grows while it sits." Research brief: `Questing/opay/research-brief.md`.
 
 ## Questing references
