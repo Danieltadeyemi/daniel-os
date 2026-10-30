@@ -11,7 +11,7 @@ For each open item in Daniel's section, pre-fill a status from evidence (Slack, 
 
 ## B. OKR tracker (Q4 2026 tab, current week column)
 Draft paste-ready text for Daniel's Marketing rows:
-- **Increase Pipeline** — auto from All Submissions, existing format: "N submissions · N qualified", then each lead as Company (Country → markets, industry, volume, score) | notes. Add H2 running total vs 75.
+- **Increase Pipeline** — auto from All Submissions, existing format: "N submissions · N qualified", then each lead as Company (Country → markets, industry, volume, score) | notes. Add H2 running total vs 75. Exclude partnership/vendor inquiries that came through the form (e.g. allpaypayz, Oct 2026) — they are not merchants; flag any you suspect and let Daniel confirm.
 - **Brand Awareness** — MoR, Trot, events, from standup Done items and Wednesday's report.
 - **Team Capability** — learning sessions from calendar/standup.
 - **Engagement & Advocacy is Dami's cell.** Check it; draft a nudge if empty.

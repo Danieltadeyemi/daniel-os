@@ -8,7 +8,7 @@ Runs Wednesday 7am. Same Notion page every week; teammates already have the link
 
 1. **Archive** last week's report into "Weekly Update Archive".
 2. **Inbound Leads**, computed from All Submissions for the prior Mon–Sun:
-   submissions, MQLs (score ≥60 / Qualified = Yes), qualification rate, Δ vs prior week, month-to-date vs target, top sources, MQL list with country, segment, score, then draft notes: hand-offs to Ayomide/Esther, near-misses (55–59), sales-sourced vs inbound, junk or malformed rows.
+   submissions, MQLs (score ≥60 / Qualified = Yes), qualification rate, Δ vs prior week, month-to-date vs target, top sources, MQL list with country, segment, score, then draft notes: hand-offs to Ayomide/Esther, near-misses (55–59), sales-sourced vs inbound, junk or malformed rows, and partnership/vendor inquiries (not merchants — exclude from counts once Daniel confirms).
    **Targets come only from Targets & Actual.** Daniel stated Oct = 40, H2 = 75. Flag mismatches; never change targets.
 3. **Social & Website**: mark "Paused, resumes when the new content marketer starts" until someone owns it.
 4. **Product Marketing (Dami)**: if not updated, draft a Tuesday-evening nudge.
