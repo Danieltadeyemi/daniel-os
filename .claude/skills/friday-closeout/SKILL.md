@@ -4,7 +4,7 @@ description: Chief of Staff: Friday checklist — close out the standup with Dan
 ---
 # Friday Close-out + OKRs (Chief of Staff)
 
-One checklist for Daniel, about 10 minutes, Friday ~1pm.
+One checklist for Daniel, about 10 minutes, Friday ~9:40am (ready before 10am; team meeting at 12).
 
 ## A. Standup close-out
 For each open item in Daniel's section, pre-fill a status from evidence (Slack, Gmail, Drive, Calendar): "Landing page looks live, mark Done?" Daniel replies: done / not done + note / move / drop. Add one **lessons** line for the week. Nothing changes in Notion until he replies.
